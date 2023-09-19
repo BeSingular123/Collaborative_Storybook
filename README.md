@@ -1,7 +1,7 @@
-# Collaborative_Storybook
+# Storytelling Book
 🔑# Title: "The Lost Key"
 
-🔰# Beginning:
+🔰# **Beginning:**
 Once upon a time, a curious young girl named Emily lived in a quaint, old town. She stumbled upon a mysterious key while exploring her grandmother's attic. Little did she know that this key would unlock an extraordinary adventure.
 
 🖕🏾# Middle:
